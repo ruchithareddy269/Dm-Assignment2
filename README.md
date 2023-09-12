@@ -15,6 +15,29 @@ The dataset described in this project is retrieved from kaggle.
 
 Part 2: PyCaret 
 
+Summary
+In this assignment, we used PyCaret and Gradio to perform low code data mining. We had to find a kaggle dataset to provide output of the colabs of pycaret. We were instructed to use the full automl capabilities of pyCaret.
+
+Deliverables
+Please see below for the list of deliverables for this part of assignment 2:
+
+DM-Assignment-2-part2: Contains all different types of ML models that were ran.
+datasets folder: This folder contains all of the datasets that were used within this google colab.
+Datasets
+NOTE: Some of the datasets that were used in this project were taken from ChatGPT references. 
+
+creditcard.csv
+diabetes.csv
+diamonds.csv
+Wholesale_customers_sale.csv
+
+Please see below for a list of datasets that were obtained from Kaggle:
+
+abalone.csv
+bmi.csv
+diabetes.csv
+KC_House_Data.csv
+
 References:
 
 https://github.com/pycaret/examples/blob/main/PyCaret%202%20Regression.ipynb
