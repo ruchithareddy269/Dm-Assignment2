@@ -21,7 +21,7 @@ In this assignment, we used PyCaret and Gradio to perform low code data mining. 
 Deliverables
 Please see below for the list of deliverables for this part of assignment 2:
 
-DM-Assignment-2-part2: Contains all different types of ML models that were ran.
+DM-Assignment-2: Contains all different types of ML models that were ran.
 datasets folder: This folder contains all of the datasets that were used within this google colab.
 Datasets
 NOTE: Some of the datasets that were used in this project were taken from ChatGPT references. 
