@@ -27,16 +27,15 @@ Datasets
 NOTE: Some of the datasets that were used in this project were taken from ChatGPT references. 
 
 creditcard.csv
+
 diabetes.csv
+
 diamonds.csv
+
 Wholesale_customers_sale.csv
 
-Please see below for a list of datasets that were obtained from Kaggle:
+iris.csv
 
-abalone.csv
-bmi.csv
-diabetes.csv
-KC_House_Data.csv
 
 References:
 
